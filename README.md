@@ -20,7 +20,7 @@ class NetworkEngineer:
         self.role = "Telecommunication, Networking & Security Engineer"
         self.motto = "Solo shot first"
         self.specialties = ["Telecommunications", "Cybersecurity", "Networking"]
-        self.languages = ["Python", "Bash", "PowerShell"]
+        self.languages = ["Python", "C", "C#", "Basic", "LUA", "Bash", "PowerShell"]
         
     def say_hi(self):
         print("Thanks for dropping by! Let's build secure networks together 🔐")
