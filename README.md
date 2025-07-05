@@ -3,7 +3,7 @@
 <div align="center">
   
   <!-- Add your animated GIF banner here -->
-  <img src="lpedroza.gif" alt="Banner" width="100%">
+  <img src="lpedroza2.gif" alt="Banner" width="100%">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Electronic+%26+Telecommunications+Engineer;Network+Security+Specialist;Python+Developer;Cybersecurity+Engineer)](https://git.io/typing-svg)
   
