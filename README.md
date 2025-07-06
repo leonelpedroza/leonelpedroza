@@ -21,7 +21,6 @@
 <!-- Enhanced badges with animations -->
 <div>
   <img src="https://komarev.com/ghpvc/?username=leonelpedroza&label=👁️+Profile+Views&color=00ff41&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/leonelpedroza?label=🚀+Followers&style=for-the-badge&color=00ff41&labelColor=1a1a1a" alt="Followers" />
   <img src="https://img.shields.io/badge/🔥+Status-Online-00ff41?style=for-the-badge&labelColor=1a1a1a" alt="Status" />
   <img src="https://img.shields.io/badge/💬+Ask+me-Anything-00ff41?style=for-the-badge&labelColor=1a1a1a" alt="Ask me anything" />
 </div>
