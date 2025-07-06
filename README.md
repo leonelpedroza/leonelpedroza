@@ -6,9 +6,9 @@
 
 <!-- Theme-aware animated GIF banner with pulse effect -->
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="lpedroza-light.gif">
-  <source media="(prefers-color-scheme: dark)" srcset="lpedroza-dark.gif">
-  <img src="lpedroza-dark.gif" alt="🚀 Cyber Banner" width="100%" style="border-radius: 15px; box-shadow: 0 0 20px rgba(0,255,65,0.5);">
+  <source media="(prefers-color-scheme: light)" srcset="lpedroza-light2.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="lpedroza-dark2.gif">
+  <img src="lpedroza-dark2.gif" alt="🚀 Cyber Banner" width="100%" style="border-radius: 15px; box-shadow: 0 0 20px rgba(0,255,65,0.5);">
 </picture>
 
 <!-- Matrix-style typing effect -->
