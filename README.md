@@ -22,7 +22,7 @@
 <div>
   <img src="https://komarev.com/ghpvc/?username=leonelpedroza&label=👁️+Profile+Views&color=00ff41&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/🔥+Status-Online-00ff41?style=for-the-badge&labelColor=1a1a1a" alt="Status" />
-  <img src="https://img.shields.io/badge/💬+Ask+me-Anything-00ff41?style=for-the-badge&labelColor=1a1a1a" alt="Ask me anything" />
+  <img src="https://img.shields.io/badge/💬+Ask+me-About+Networks-00ff41?style=for-the-badge&labelColor=1a1a1a" alt="Ask me anything" />
 </div>
 
 </div>
