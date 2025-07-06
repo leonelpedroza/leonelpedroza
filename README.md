@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Glitch effect title -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=%F0%9F%91%BD+LEONEL+PEDROZA;%E2%9A%A1+ENGINEER+%E2%9A%A1" alt="Glitch Title">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=LEONEL+PEDROZA;P.Eng.+Engineer" alt="Glitch Title">
 
 <!-- Theme-aware animated GIF banner with pulse effect -->
 <picture>
