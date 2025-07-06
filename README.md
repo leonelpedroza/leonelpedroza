@@ -80,16 +80,16 @@ print(leonel.coffee_level())
 
 <!-- 3D Rotating Cube ASCII Art -->
 ```
-        🔐 TELECOMMUNICATIONS MATRIX 🔐
+   🔐 TELECOMMUNICATIONS MATRIX 🔐
     
     ████████████████████████████
-    █                          █
-    █    📡  NETWORK SECURITY   █
-    █    📞  TELECOMMUNICATIONS █
-    █    🌐  NETWORK ANALYSIS   █
-    █    🔍  PROTOCOL ANALYSIS  █
-    █    ⚡  NETWORK AUTOMATION █
-    █                          █
+    █                           █
+    █  📡  NETWORK SECURITY    █
+    █  📞  TELECOMMUNICATIONS  █
+    █  🌐  NETWORK ANALYSIS    █
+    █  🔍  PROTOCOL ANALYSIS   █
+    █  ⚡  NETWORK AUTOMATION  █
+    █                           █
     ████████████████████████████
     
          📡 LEVEL: EXPERT 📡
@@ -246,16 +246,16 @@ print(leonel.coffee_level())
 <div align="center">
 
 ```ascii
-┌─────────────────────────────────────────────────────────────┐
-│  🚀 ACTIVE MISSIONS                                         │
-├─────────────────────────────────────────────────────────────┤
-│  📡 Building next-gen telecommunications networks           │
-│  🌐 Developing network monitoring and analysis tools       │
-│  🛡️ Creating network security protocols and frameworks    │
-│  📞 Exploring VoIP and unified communications              │
-│  ⚡ Automating network configuration and management        │
-│  🔍 Research into network performance optimization         │
-└─────────────────────────────────────────────────────────────┘
+╔═════════════════════════════════════════════════════════════╗
+║  🚀 ACTIVE MISSIONS                                         ║
+╠═════════════════════════════════════════════════════════════╣
+║  📡 Building next-gen telecommunications networks           ║
+║  🌐 Developing network monitoring and analysis tools        ║
+║  🛡️ Creating network security protocols and frameworks      ║
+║  📞 Exploring VoIP and unified communications               ║
+║  ⚡ Automating network configuration and management         ║
+║  🔍 Research into network performance optimization          ║
+╚═════════════════════════════════════════════════════════════╝
 ```
 
 </div>
