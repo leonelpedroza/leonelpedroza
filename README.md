@@ -6,15 +6,15 @@
 
 <!-- Theme-aware animated GIF banner with pulse effect -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="lpedroza-dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="lpedroza-light.gif">
-  <img src="lpedroza.gif" alt="🚀 Cyber Banner" width="100%" style="border-radius: 15px; box-shadow: 0 0 20px rgba(0,255,65,0.5);">
+  <source media="(prefers-color-scheme: dark)" srcset="lpedroza-dark.gif">
+  <img src="lpedroza-dark.gif" alt="🚀 Cyber Banner" width="100%" style="border-radius: 15px; box-shadow: 0 0 20px rgba(0,255,65,0.5);">
 </picture>
 
 <!-- Matrix-style typing effect -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=%3E%3E%3E+Initializing+Neural+Network...;%3E%3E%3E+Loading+Cyber+Protocols...;%3E%3E%3E+Electronic+%26+Telecommunications+Engineer;%3E%3E%3E+Network+Security+Specialist;%3E%3E%3E+Python+%7C+C%2B%2B+%7C+Cybersecurity+Expert;%3E%3E%3E+Building+The+Future+of+Security...;%3E%3E%3E+Access+Granted+%F0%9F%94%93">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=0366D6&center=true&vCenter=true&width=800&lines=%3E%3E%3E+Initializing+Neural+Network...;%3E%3E%3E+Loading+Cyber+Protocols...;%3E%3E%3E+Electronic+%26+Telecommunications+Engineer;%3E%3E%3E+Network+Security+Specialist;%3E%3E%3E+Python+%7C+C%2B%2B+%7C+Cybersecurity+Expert;%3E%3E%3E+Building+The+Future+of+Security...;%3E%3E%3E+Access+Granted+%F0%9F%94%93">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=%3E%3E%3E+Initializing+Neural+Network...;%3E%3E%3E+Loading+Cyber+Protocols...;%3E%3E%3E+Electronic+%26+Telecommunications+Engineer;%3E%3E%3E+Network+Security+Specialist;%3E%3E%3E+Python+%7C+C%2B%2B+%7C+Cybersecurity+Expert;%3E%3E%3E+Building+The+Future+of+Security...;%3E%3E%3E+Access+Granted+%F0%9F%94%93">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=%3E%3E%3E+Initializing+Neural+Network...;%3E%3E%3E+Loading+Cyber+Protocols...;%3E%3E%3E+Electronic+%26+Telecommunications+Engineer;%3E%3E%3E+Network+Security+Specialist;%3E%3E%3E+Python+%7C+C%2B%2B+%7C+Cybersecurity+Expert;%3E%3E%3E+Building+The+Future+of+Security...;%3E%3E%3E+Access+Granted+%F0%9F%94%93" alt="Matrix Typing">
 </picture>
 
@@ -264,8 +264,8 @@ print(leonel.coffee_level())
 
 <!-- Enhanced Contribution Graph -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=leonelpedroza&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=leonelpedroza&theme=github-compact&bg_color=ffffff&color=0366d6&line=0366d6&point=ffffff&area=true&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=leonelpedroza&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonelpedroza&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" alt="📊 Contribution Matrix">
 </picture>
 
@@ -311,8 +311,8 @@ print(leonel.coffee_level())
 
 <!-- Enhanced Quote with Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in">
   <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&animation=grow_out_in">
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in" alt="💭 Wisdom Module">
 </picture>
 
@@ -324,8 +324,8 @@ print(leonel.coffee_level())
 
 <!-- Animated Snake eating contributions -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/leonelpedroza/leonelpedroza/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/leonelpedroza/leonelpedroza/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/leonelpedroza/leonelpedroza/blob/output/github-contribution-grid-snake-dark.svg">
   <img src="https://github.com/leonelpedroza/leonelpedroza/blob/output/github-contribution-grid-snake-dark.svg" alt="🐍 Contribution Snake" width="100%">
 </picture>
 
@@ -348,7 +348,7 @@ print(leonel.coffee_level())
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
-║  ⚡ "In a world of vulnerabilities, be the patch" ⚡          ║
+║  ⚡ "In a world of vulnerabilities, be the patch" ⚡        ║
 ║                                                              ║
 ║     📡 Building secure networks, one packet at a time 📡    ║
 ╚══════════════════════════════════════════════════════════════╝
