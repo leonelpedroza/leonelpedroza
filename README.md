@@ -179,20 +179,6 @@ print(leonel.coffee_level())
 
 </div>
 
-## 📊 Neural Network.Stats()
-
-<div align="center">
-
-<!-- Animated GitHub Stats Cards -->
-<img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leonelpedroza&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&border_radius=15" alt="⚡ Leonel's GitHub Stats">
-
-<img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leonelpedroza&layout=compact&langs_count=10&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_radius=15" alt="💻 Most Used Languages">
-
-<!-- GitHub Streak Stats -->
-<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=leonelpedroza&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff&border_radius=15" alt="🔥 GitHub Streak">
-
-</div>
-
 ## 🏆 Achievement.Unlock()
 
 <div align="center">
